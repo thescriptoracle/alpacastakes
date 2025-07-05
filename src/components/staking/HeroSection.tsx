@@ -8,10 +8,10 @@ export default function HeroSection() {
         style={{ backgroundImage: `url(${heroImage})` }}
       />
       <div className="relative container mx-auto px-4 py-20 text-center">
-        <h1 className="text-6xl font-bold mb-6 glow-text">
+        <h1 className="text-4xl font-bold mb-6 glow-text">
           Alpacastakes
         </h1>
-        <p className="text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
+        <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
           High-Yield Crypto Staking Platform - Earn daily returns starting from 5% daily
         </p>
         <div className="flex justify-center gap-8 text-lg">
